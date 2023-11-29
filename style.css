@@ -1,0 +1,96 @@
+body {
+    background-color: black;
+}
+
+p {
+    color: white;
+
+
+
+
+}
+
+.bakhoor {
+    /* '#' means id */
+    color: gold;
+    font-size: 80px;
+    text-align: center;
+    font-family: cursive;
+}
+
+.bakhoor {
+    color: gold;
+}
+
+.menu {
+    text-decoration: none;
+    font-size: 80px;
+    text-align: center;
+    font-family: cursive;
+    color: gold;
+}
+
+.menu-header {
+    text-align: center;
+}
+
+.aim {
+    color: gold;
+    font-size: 80px;
+    text-align: center;
+    font-family: cursive;
+    color: gold;
+
+}
+
+
+
+
+.price{ 
+    color: gold;
+    font-size: 50px;
+    text-align: center;
+    font-family: cursive;
+    color: gold;
+
+}
+
+
+
+.SOCIALS{ 
+    color: gold;
+    font-size: 50px;
+    text-align: center;
+    font-family: cursive;
+    color: gold;
+}
+
+.bakhoor {
+    font-size: 100px;
+}
+
+.jpej {
+    width: 300px;
+}
+
+
+
+.images {
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+
+}
+
+.jpej,
+.bakhoor-image {
+    height: 300px;
+    width: 300px;
+    border: 12px gold solid;
+}
+
+li {
+    color: white;
+}
+
+.
